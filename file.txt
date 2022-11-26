@@ -1,0 +1,342 @@
+
+Formation of the first team
+Choose droid №1
+1. Heal Droid
+2. Attack Droid
+3. Defend Droid
+Your choice: 2
+Choose droid №2
+1. Heal Droid
+2. Attack Droid
+3. Defend Droid
+Your choice: 2
+Choose droid №3
+1. Heal Droid
+2. Attack Droid
+3. Defend Droid
+Your choice: 2
+
+Formation of the second team
+Choose droid №1
+1. Heal Droid
+2. Attack Droid
+3. Defend Droid
+Your choice: 2
+Choose droid №2
+1. Heal Droid
+2. Attack Droid
+3. Defend Droid
+Your choice: 2
+Choose droid №3
+1. Heal Droid
+2. Attack Droid
+3. Defend Droid
+Your choice: 2
+
+----------------------------Round №1----------------------------
+First team turn:
+Attack Droid give 1 damage to Attack Droid
+
+Second team turn:
+Attack Droid give 13 damage to Attack Droid
+
+First team:
+Attack Droid
+(HP: 57 Maximal Damage: 20)
+Attack Droid
+(HP: 70 Maximal Damage: 20)
+Attack Droid
+(HP: 70 Maximal Damage: 20)
+
+Second team:
+Attack Droid
+(HP: 69 Maximal Damage: 20)
+Attack Droid
+(HP: 70 Maximal Damage: 20)
+Attack Droid
+(HP: 70 Maximal Damage: 20)
+
+----------------------------Round №2----------------------------
+First team turn:
+Attack Droid give 15 damage to Attack Droid
+
+Second team turn:
+Attack Droid give 13 damage to Attack Droid
+
+First team:
+Attack Droid
+(HP: 57 Maximal Damage: 20)
+Attack Droid
+(HP: 57 Maximal Damage: 20)
+Attack Droid
+(HP: 70 Maximal Damage: 20)
+
+Second team:
+Attack Droid
+(HP: 69 Maximal Damage: 20)
+Attack Droid
+(HP: 55 Maximal Damage: 20)
+Attack Droid
+(HP: 70 Maximal Damage: 20)
+
+----------------------------Round №3----------------------------
+First team turn:
+Attack Droid give 17 damage to Attack Droid
+
+Second team turn:
+Attack Droid give 25 damage to Attack Droid
+
+First team:
+Attack Droid
+(HP: 32 Maximal Damage: 20)
+Attack Droid
+(HP: 57 Maximal Damage: 20)
+Attack Droid
+(HP: 70 Maximal Damage: 20)
+
+Second team:
+Attack Droid
+(HP: 52 Maximal Damage: 20)
+Attack Droid
+(HP: 55 Maximal Damage: 20)
+Attack Droid
+(HP: 70 Maximal Damage: 20)
+
+----------------------------Round №4----------------------------
+First team turn:
+Attack Droid give 25 damage to Attack Droid
+
+Second team turn:
+Attack Droid give 10 damage to Attack Droid
+
+First team:
+Attack Droid
+(HP: 32 Maximal Damage: 20)
+Attack Droid
+(HP: 47 Maximal Damage: 20)
+Attack Droid
+(HP: 70 Maximal Damage: 20)
+
+Second team:
+Attack Droid
+(HP: 52 Maximal Damage: 20)
+Attack Droid
+(HP: 30 Maximal Damage: 20)
+Attack Droid
+(HP: 70 Maximal Damage: 20)
+
+----------------------------Round №5----------------------------
+First team turn:
+Attack Droid give 25 damage to Attack Droid
+
+Second team turn:
+Attack Droid give 25 damage to Attack Droid
+
+First team:
+Attack Droid
+(HP: 7 Maximal Damage: 20)
+Attack Droid
+(HP: 47 Maximal Damage: 20)
+Attack Droid
+(HP: 70 Maximal Damage: 20)
+
+Second team:
+Attack Droid
+(HP: 27 Maximal Damage: 20)
+Attack Droid
+(HP: 30 Maximal Damage: 20)
+Attack Droid
+(HP: 70 Maximal Damage: 20)
+
+----------------------------Round №6----------------------------
+First team turn:
+Attack Droid give 25 damage to Attack Droid
+
+Second team turn:
+Attack Droid give 3 damage to Attack Droid
+
+First team:
+Attack Droid
+(HP: 7 Maximal Damage: 20)
+Attack Droid
+(HP: 44 Maximal Damage: 20)
+Attack Droid
+(HP: 70 Maximal Damage: 20)
+
+Second team:
+Attack Droid
+(HP: 27 Maximal Damage: 20)
+Attack Droid
+(HP: 5 Maximal Damage: 20)
+Attack Droid
+(HP: 70 Maximal Damage: 20)
+
+----------------------------Round №7----------------------------
+First team turn:
+Attack Droid give 25 damage to Attack Droid
+
+Second team turn:
+Attack Droid give 13 damage to Attack Droid
+
+First team:
+Attack Droid
+(HP: 44 Maximal Damage: 20)
+Attack Droid
+(HP: 70 Maximal Damage: 20)
+
+Second team:
+Attack Droid
+(HP: 2 Maximal Damage: 20)
+Attack Droid
+(HP: 5 Maximal Damage: 20)
+Attack Droid
+(HP: 70 Maximal Damage: 20)
+
+----------------------------Round №8----------------------------
+First team turn:
+Attack Droid give 1 damage to Attack Droid
+
+Second team turn:
+Attack Droid give 15 damage to Attack Droid
+
+First team:
+Attack Droid
+(HP: 29 Maximal Damage: 20)
+Attack Droid
+(HP: 70 Maximal Damage: 20)
+
+Second team:
+Attack Droid
+(HP: 2 Maximal Damage: 20)
+Attack Droid
+(HP: 4 Maximal Damage: 20)
+Attack Droid
+(HP: 70 Maximal Damage: 20)
+
+----------------------------Round №9----------------------------
+First team turn:
+Attack Droid give 6 damage to Attack Droid
+
+Second team turn:
+Attack Droid give 2 damage to Attack Droid
+
+First team:
+Attack Droid
+(HP: 27 Maximal Damage: 20)
+Attack Droid
+(HP: 70 Maximal Damage: 20)
+
+Second team:
+Attack Droid
+(HP: 4 Maximal Damage: 20)
+Attack Droid
+(HP: 70 Maximal Damage: 20)
+
+----------------------------Round №10----------------------------
+First team turn:
+Attack Droid give 25 damage to Attack Droid
+
+Second team turn:
+Attack Droid give 25 damage to Attack Droid
+
+First team:
+Attack Droid
+(HP: 2 Maximal Damage: 20)
+Attack Droid
+(HP: 70 Maximal Damage: 20)
+
+Second team:
+Attack Droid
+(HP: 70 Maximal Damage: 20)
+
+----------------------------Round №11----------------------------
+First team turn:
+Attack Droid give 12 damage to Attack Droid
+
+Second team turn:
+Attack Droid give 5 damage to Attack Droid
+
+First team:
+Attack Droid
+(HP: 70 Maximal Damage: 20)
+
+Second team:
+Attack Droid
+(HP: 58 Maximal Damage: 20)
+
+----------------------------Round №12----------------------------
+First team turn:
+Attack Droid give 10 damage to Attack Droid
+
+Second team turn:
+Attack Droid give 19 damage to Attack Droid
+
+First team:
+Attack Droid
+(HP: 51 Maximal Damage: 20)
+
+Second team:
+Attack Droid
+(HP: 48 Maximal Damage: 20)
+
+----------------------------Round №13----------------------------
+First team turn:
+Attack Droid give 3 damage to Attack Droid
+
+Second team turn:
+Attack Droid give 19 damage to Attack Droid
+
+First team:
+Attack Droid
+(HP: 32 Maximal Damage: 20)
+
+Second team:
+Attack Droid
+(HP: 45 Maximal Damage: 20)
+
+----------------------------Round №14----------------------------
+First team turn:
+Attack Droid give 5 damage to Attack Droid
+
+Second team turn:
+Attack Droid give 13 damage to Attack Droid
+
+First team:
+Attack Droid
+(HP: 19 Maximal Damage: 20)
+
+Second team:
+Attack Droid
+(HP: 40 Maximal Damage: 20)
+
+----------------------------Round №15----------------------------
+First team turn:
+Attack Droid give 10 damage to Attack Droid
+
+Second team turn:
+Attack Droid give 8 damage to Attack Droid
+
+First team:
+Attack Droid
+(HP: 11 Maximal Damage: 20)
+
+Second team:
+Attack Droid
+(HP: 30 Maximal Damage: 20)
+
+----------------------------Round №16----------------------------
+First team turn:
+Attack Droid give 16 damage to Attack Droid
+
+Second team turn:
+Attack Droid give 25 damage to Attack Droid
+
+First team:
+Empty
+
+Second team:
+Attack Droid
+(HP: 14 Maximal Damage: 20)
+
+Second team win
+

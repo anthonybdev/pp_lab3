@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.bitner.droidbattle"},{"l":"com.bitner.droidbattle.Battle"},{"l":"com.bitner.droidbattle.droids"},{"l":"com.bitner.droidbattle.Printer"},{"l":"com.bitner.droidbattle.Team"}];updateSearchResults();
